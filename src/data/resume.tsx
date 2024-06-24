@@ -3,7 +3,7 @@ import { Icons } from "@/components/icons";
 export const DATA = {
   name: "Travontaz Lowry",
   initials: "TL",
-  url: "",
+  url: "www.google.com",
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
@@ -83,6 +83,7 @@ export const DATA = {
         },
       ],
       image: "",
+      video: "",
     },
   ],
   hackathons: [
